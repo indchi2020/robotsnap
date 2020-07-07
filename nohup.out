@@ -1,0 +1,20 @@
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path C:\Users\CSLAB14\Desktop\Snap\package.json
+npm ERR! errno -4058
+npm ERR! enoent ENOENT: no such file or directory, open 'C:\Users\CSLAB14\Desktop\Snap\package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\CSLAB14\AppData\Roaming\npm-cache\_logs\2020-07-07T09_01_38_663Z-debug.log
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path C:\Users\CSLAB14\Desktop\Snap\package.json
+npm ERR! errno -4058
+npm ERR! enoent ENOENT: no such file or directory, open 'C:\Users\CSLAB14\Desktop\Snap\package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\CSLAB14\AppData\Roaming\npm-cache\_logs\2020-07-07T09_01_41_448Z-debug.log
